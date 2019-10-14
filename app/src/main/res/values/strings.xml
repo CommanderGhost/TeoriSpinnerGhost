@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SpinnerGhost</string>
+
+    <string-array name="city_list">
+        <item>Nasi Goreng</item>
+        <item>Magelangan</item>
+        <item>Nasi Sarden</item>
+        <item>Nasi Telur</item>
+        <item>Omelet</item>
+        <item>Ikan Asin</item>
+        <item>Tahu Bulat</item>
+        <item>Anggur Wine</item>
+        <item>Vodka</item>
+        <item>Sake</item>
+
+    </string-array>
+</resources>
